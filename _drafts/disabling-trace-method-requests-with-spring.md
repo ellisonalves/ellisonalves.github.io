@@ -2,7 +2,7 @@
 layout: post
 title: Disabling TRACE request with spring
 date: 2023-01-01 22:01
-tags: [Spring Boot]
+tags: [Springboot]
 categories: [Spring]
 mermaid: true
 ---
